@@ -77,6 +77,6 @@ class InstagramBot():
 
     
 
-bot= InstagramBot('souheibsfaxi07@gmail.com', 'papadopoulos2','cool ;)', 'Nice ;)', 'Like it ;)')
+bot= InstagramBot('your username/mailadress', 'your password','cool ;)', 'Nice ;)', 'Like it ;)')
 bot.signIn()
 bot.Like()
